@@ -46,11 +46,6 @@ It explores trends, cleans missing values, and creates meaningful visual insight
     Unique country analysis
 
     Population distribution over time
-
-📸 Sample Visualizations
-
-    (Here you can add screenshots if you have! If not, skip.)
-
 🚀 How to Run
 
     Clone the repository
@@ -68,12 +63,6 @@ It explores trends, cleans missing values, and creates meaningful visual insight
     Visual storytelling through Python plots
 
     Understanding trends in global population dynamics
-
-📈 Future Improvements
-
-    Add interactive dashboard (using Streamlit or Dash)
-
-    Expand to cover predictions for future population trends
 
 👨‍💻 Author
 
